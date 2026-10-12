@@ -1042,7 +1042,10 @@
 
         async function loadData(filename) {
             try {
-                const res = await fetch(`data/approch/${filename}`);
+                let res = await fetch(`/data/approch/${filename}`);
+                if (!res.ok) {
+                    res = await fetch(`data/approch/${filename}`);
+                }
                 if (!res.ok) throw new Error(`HTTP ${res.status}`);
                 return await res.json();
             } catch (err) {

@@ -1061,7 +1061,10 @@ class="grid lg:grid-cols-2 gap-0 bg-cream border border-gray-100">
 <script>
 async function loadData(filename) {
 try {
-const res = await fetch(`data/home/${filename}`);
+let res = await fetch(`/data/home/${filename}`);
+if (!res.ok) {
+res = await fetch(`data/home/${filename}`);
+}
 if (!res.ok) throw new Error(`HTTP ${res.status}`);
 return await res.json();
 } catch (err) {

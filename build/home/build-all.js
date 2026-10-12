@@ -16,6 +16,7 @@ const buildLeadership = require('./build-leadership');
 const buildContact = require('./build-contact');
 const buildFaq = require('./build-faq');
 const buildOrganization = require('./build-organization');
+const buildSidebar = require('./build-sidebar');
 
 function buildAllHome() {
     console.log('Building all home data files from markdown...');
@@ -37,6 +38,7 @@ function buildAllHome() {
     buildContact();
     buildFaq();
     buildOrganization();
+    buildSidebar();
     console.log('✓ Successfully built all home data files.\n');
 }
 
