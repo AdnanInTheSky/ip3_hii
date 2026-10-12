@@ -1,0 +1,138 @@
+---
+nav:
+  brand: IP3
+  brandSuffix: Consulting
+  links:
+    - label: Offerings
+      url: "#offerings"
+    - label: MERLA Projects
+      url: "#merla-projects"
+    - label: Why IP3
+      url: "#contact"
+  cta:
+    label: Contact
+    url: "#contact"
+  focusAreasLabel: Focus Areas
+  focusAreasGroupLabel: All Practice Areas
+  focusAreas:
+    - title: "Economic & Environmental Assessment"
+      url: poilicy_eco.html
+      current: false
+    - title: "Institutional Effectiveness & Digital Governance"
+      url: policy_data.html
+      current: false
+    - title: "Program & Survey Design, Management"
+      url: policy_design.html
+      current: false
+    - title: "Education & Human Capacity Development"
+      url: policy_edu.html
+      current: false
+    - title: "Public Policy Innovation & Action Research"
+      url: policy_innov.html
+      current: false
+    - title: "Monitoring & Evaluation (MERLA)"
+      url: policy_mon.html
+      current: true
+    - title: "Climate Action & Sustainability Solutions"
+      url: policy_climate.html
+      current: false
+hero:
+  badge: MERLA Framework
+  title: "MONITORING, EVALUATION, RESEARCH, LEARNING, AND ADAPTATION <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">(MERLA)</span>"
+  ctaText: Explore Solutions
+  ctaUrl: "#offerings"
+  bgImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1920&q=80"
+coreOfferings:
+  badge: Service Capabilities
+  title: Our Core Offerings
+  subtitle: "At IP3 Consulting, we deliver tailored MERLA solutions to empower effective decision-making, enhance performance, and drive systemic change. Combining social science expertise, digital innovation, and adaptive learning, we help organizations achieve measurable impact across diverse sectors."
+  tabs:
+    - id: impact
+      name: Impact Evaluation
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80"
+      imageAlt: Impact Evaluation
+      title: Impact Evaluation
+      tagline: Globally Benchmarked Methodologies for Informed Decision-Making
+      edge: "Data-driven impact assessment frameworks, Globally benchmarked evaluation methodologies, Gender-inclusive impact analysis."
+      points:
+        - Conducting rigorous outcome and impact evaluations leveraging quasi-experimental and counterfactual methodologies to measure effectiveness and causal attribution.
+        - Applying mixed method frameworks integrating qualitative insights with quantitative techniques for holistic impact assessments.
+        - "Ensuring high quality, globally benchmarked data collection, adhering to World Bank, OECD-DAC criteria, Randomized methodologies, and DFID's best practices."
+    - id: monitoring
+      name: "Monitoring & Results"
+      image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?auto=format&fit=crop&w=1200&q=80"
+      imageAlt: Monitoring
+      title: "Monitoring & Results Measurement"
+      tagline: Harnessing Real-Time Insights for Adaptive Program Management
+      edge: "Real-time monitoring systems, Geospatial data integration, Adaptive management dashboards."
+      points:
+        - "Designing & Deploying Secure, Scalable Data Systems – Developing context-specific, high-integrity data ecosystems that enhance decision-making, transparency, and accountability."
+        - "Real Time Monitoring & Predictive Analytics – Leveraging interactive dashboards, AI-powered analytics, and geospatial tools for real-time program tracking and impact assessment."
+        - "Capacity Building & Institutional Strengthening – Supporting national governments and development organizations in building resilient, high-quality monitoring frameworks."
+    - id: fit
+      name: Fit-for-Purpose Evaluation
+      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
+      imageAlt: Evaluation
+      title: Fit-for-Purpose Evaluation
+      tagline: "Tailored, Adaptive, and Data-Driven Evaluation for Complex Challenges"
+      edge: "Mixed method evaluation design, Context-specific MEL frameworks, Adaptive evaluation for specific programs."
+      points:
+        - Bespoke Mixed Method Evaluation Design – Crafting customized evaluation frameworks that integrate advanced quantitative analytics with qualitative methodologies for context specific insights.
+        - "Sector-Specific Evaluation & Local Adaptation – Developing targeted evaluation approaches for key sectors, including climate resilience, global health, education, and sustainable development."
+        - "Operational & Adaptive Research – Conducting real-time operational research to identify bottlenecks, enhance resource efficiency, and optimize implementation strategies."
+    - id: digital
+      name: Digital Monitoring Solutions
+      image: "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80"
+      imageAlt: Digital Solutions
+      title: Digital Monitoring Solutions
+      tagline: "Harnessing AI, Automation, and Digital Transformation"
+      edge: "Real-time monitoring systems, Geospatial data integration, Adaptive management dashboards."
+      points:
+        - "AI-Powered Data Analytics & Predictive Modeling – Leveraging machine learning and AI-driven automation to enhance data accuracy and optimize trend forecasting."
+        - "Scalable Digital Platforms & Visualization Dashboards – Deploying cost-effective, interactive data ecosystems that integrate custom analytics and real-time performance tracking."
+        - "IoT & ICT Integration for Seamless Data Collection – Utilizing Internet of Things (IoT) devices and digital reporting tools to ensure enhanced data integrity."
+    - id: research
+      name: Action Research
+      image: "https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80"
+      imageAlt: Action Research
+      title: "Action Research & Collaboration"
+      tagline: Tailored Solutions for Complex Challenges
+      edge: "Mixed method evaluation design, Context-specific MEL frameworks, Adaptive evaluation."
+      points:
+        - Stakeholder-Led Knowledge Co-Creation - Implementing participatory action research models that engage local communities to generate data-driven solutions.
+        - "Adaptive Learning & Iterative Strategy Refinement – Facilitating \"Pause and Reflect\" workshops, real-time program adaptation, and continuous learning cycles."
+        - Multi-Level Knowledge Exchange for Scalable Solutions – Aligning local insights with global development frameworks through cross-sectoral collaboration.
+merlaProjects:
+  badge: Track Record
+  title: MERLA Projects
+  description: "Interactive physical card deck fan — hover cards to pull them from the deck, or use controls/touch to navigate through our major monitoring and evaluation engagements."
+  items:
+    - tag: "M&S • GSK • 2019"
+      title: "Health Access & Linkage for Workers [HALOW+] (2019)"
+      description: "IP3 Consulting played a key role in the HALOW+ Program, a multi-stakeholder initiative led by Marks & Spencer, GSK, PwC-UK, and Care International to improve health service markets and worker well-being in RMG sector."
+      image: "https://images.unsplash.com/photo-1606166325683-e6deb697d301?auto=format&fit=crop&w=600&q=80"
+      pillarLabel: Project Brief
+    - tag: DSIP • 2020
+      title: "Transforming Urban Sanitation with Data-Driven M&E (2020)"
+      description: "IP3 Consulting designed the Monitoring & Evaluation (M&E) and Results Framework for the Dhaka Sewerage Improvement Project (DSIP), enhancing sewerage networks, wastewater treatment, and non-network sanitation services."
+      image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=600&q=80"
+      pillarLabel: Project Brief
+    - tag: Global LEAP • 2018
+      title: Accelerating Clean Energy Access Through Results-Based Financing (2018)
+      description: "IP3 Consulting led the design and implementation of a results-based financing strategy for the Global Lighting & Energy Access Partnership (Global LEAP), fostering commercial markets for off-grid solar solutions."
+      image: "https://images.unsplash.com/photo-1509391366360-1f9509e9247e?auto=format&fit=crop&w=600&q=80"
+      pillarLabel: Project Brief
+cta:
+  badge: Next Steps
+  title: "Partner with Us for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">Adaptive MERLA Systems</span>"
+  paragraphs:
+    - "Turn data into continuous improvement and measurable outcomes. At IP3 Consulting, we build real-time monitoring platforms, independent evaluations, and adaptive learning architectures for national programs."
+    - "Together, we ensure accountability, transparency, and sustained impact."
+  buttonText: Consult Our MERLA Specialists
+  buttonUrl: "#offerings"
+footer:
+  copyright: © 2026 IP3 Consulting Limited — Institute for Public Policy and Practice. All rights reserved.
+  tagline: "Monitoring, Evaluation, Research, Learning, and Adaptation (MERLA) Solutions"
+  websiteUrl: "https://www.ip3-bd.org"
+  websiteLabel: www.ip3-bd.org
+---

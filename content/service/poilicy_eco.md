@@ -1,0 +1,150 @@
+---
+nav:
+  brand: IP3
+  brandSuffix: Consulting
+  links:
+    - label: Feasibility
+      url: "#feasibility"
+    - label: Expertise
+      url: "#expertise"
+    - label: Why IP3
+      url: "#why"
+    - label: Projects
+      url: "#projects"
+  cta:
+    label: Get Started
+    url: "#contact"
+  focusAreasLabel: Focus Areas
+  focusAreasGroupLabel: All Practice Areas
+  focusAreas:
+    - title: "Economic & Environmental Assessment"
+      url: poilicy_eco.html
+      current: true
+    - title: "Institutional Effectiveness & Digital Governance"
+      url: policy_data.html
+      current: false
+    - title: "Program & Survey Design, Management"
+      url: policy_design.html
+      current: false
+    - title: "Education & Human Capacity Development"
+      url: policy_edu.html
+      current: false
+    - title: "Public Policy Innovation & Action Research"
+      url: policy_innov.html
+      current: false
+    - title: "Monitoring & Evaluation (MERLA)"
+      url: policy_mon.html
+      current: false
+    - title: "Climate Action & Sustainability Solutions"
+      url: policy_climate.html
+      current: false
+hero:
+  badge: IP3 Consulting
+  title: "Economic, Financial and Environmental Assessment, and <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">Feasibility Studies</span>"
+  ctaText: Explore Feasibility
+  ctaUrl: "#feasibility"
+  bgImage: "https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=1920&q=80"
+feasibility:
+  badge: Project Viability
+  title: "Assessing Project Feasibility, <span class=\"text-brand\">Economic and Environment Viability</span>"
+  description: "Interactive physical card deck fan — hover cards to pull them from the deck, or use controls/touch to paginate through our core assessment pillars."
+  items:
+    - tag: Data-Driven Insights
+      title: Scenario Analysis
+      description: "Evaluating future scenarios with robust economic modeling, Monte Carlo risk simulation, and sensitivity testing for complex investments."
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80"
+    - tag: Integrated Studies
+      title: Comprehensive Feasibility
+      description: "Assessing integrated project feasibility combining macroeconomic forecasting, environmental impacts, and institutional capacity roadmaps."
+      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80"
+    - tag: Long-Term Value
+      title: Strategic Roadmaps
+      description: Developing sustainable financial and environmental strategies to secure financing and ensure long-term viability for major infrastructure.
+      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
+  summary: "We specialize in developing and assessing the integrated feasibility of the project concept that combine economic, financial, and environmental assessments. With expertise in economic modeling, financial analysis and environmental impact evaluation, we provide clients with the insights needed to make data-driven decisions on investment, project design, and implementation."
+expertise:
+  badge: "Methodology & Analytics"
+  title: "Our <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">Expertise</span>"
+  bgImage: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1920&q=80"
+  tabs:
+    - id: 1
+      name: Economic and Financial Feasibility
+      image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80"
+      imageAlt: Financial Feasibility
+      title: Economic and Financial Feasibility
+      points:
+        - Advanced economic and financial modeling for evaluating project viability and potential returns.
+        - Cost-benefit analysis and financial forecasting for public and private sector investments.
+        - "Strategic financial planning, including long-term investment roadmaps and funding strategies."
+    - id: 2
+      name: Environmental Impact Assessments (EIA)
+      image: "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?w=800&q=80"
+      imageAlt: Environmental Impact
+      title: Environmental Impact Assessments (EIA)
+      points:
+        - In-depth analysis of environmental and social impacts to ensure compliance with sustainability and regulatory standards.
+        - Integration of climate resilience and green finance principles into project planning.
+    - id: 3
+      name: Integrated Feasibility Frameworks
+      image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80"
+      imageAlt: Integrated Frameworks
+      title: Integrated Feasibility Frameworks
+      points:
+        - "Development of holistic frameworks that combine institutional, economic, and environmental dimensions for large-scale projects."
+        - Focus on transformative solutions that balance economic growth with environmental stewardship.
+why:
+  badge: Value Proposition
+  title: "Why <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">IP3 Consulting?</span>"
+  paragraphs:
+    - "Our deep expertise in economic and financial modeling, combined with a commitment to environmental sustainability, positions us as the ideal partner for assessing project feasibility and driving sustainable growth. With a strong track record of delivering actionable solutions for large-scale infrastructure and transformative policy projects, IP3 Consulting ensures that your initiatives are economically viable, environmentally sustainable, and socially impactful."
+    - Transform your vision into actionable outcomes. Contact us to explore how we can guide your projects toward sustainable success.
+  buttonText: Get Started
+  buttonUrl: "#projects"
+projects:
+  badge: Portfolio Track Record
+  title: "Assessment and <span class=\"text-brand\">Feasibility Studies</span>"
+  items:
+    - year: "2024"
+      title: "Shaping the Future of Education: Feasibility Study for Secondary and Madrasah Education (2024)"
+      description: "IP3 Consulting conducted Bangladesh's first economic and financial feasibility study for secondary and madrasah education projects under ADB TA-6950-BAN. Our expertise in market analysis, cost-benefit assessment, risk modeling, and institutional capacity evaluation provided a comprehensive strategic roadmap for education sector investments, ensuring alignment with national development priorities and ADB guidelines to drive impactful, future-ready education."
+      image: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800&q=80"
+      actionText: Read More
+    - year: "2017"
+      title: Strategic Economic and Financial Advisory for Payra Seaport Development (2017)
+      description: "IP3 Consulting provided technical expertise in economic and financial feasibility analysis for Payra Seaport, Bangladesh's third seaport, under a detailed techno-economic study and master planning initiative. Our work included cost-benefit assessments, a 15-year financial model, and investment viability analysis, ensuring data-driven decision-making to optimize the port's long-term economic sustainability and strategic growth."
+      image: "https://images.unsplash.com/photo-1578357078586-491adf1aa5ba?w=800&q=80"
+      actionText: Read More
+    - year: "2019"
+      title: Comprehensive Feasibility Study for Jolshiri Aqua Green City (2019)
+      description: "IP3 Consulting conducted an economic, social, financial, and market feasibility study for Jolshiri Aqua Green City, a major Army Officers Housing Scheme development project in Bangladesh. Our work included a 10-year projection, cost-benefit analyses, financial modeling, and market segmentation, providing investment strategies, pricing models, and funding opportunities to ensure the project's long-term viability and sustainable urban growth."
+      image: "https://images.unsplash.com/photo-1518001073206-621699099754?w=800&q=80"
+      actionText: Read More
+    - year: "2017"
+      title: "Strategic Advisory for Equity Investment & Special Economic Zone Development (2017)"
+      description: "IP3 Consulting provided technical coordination and advisory support to Bangladesh Infrastructure Finance Fund Limited (BIFFL) and Bangladesh Economic Zones Authority (BEZA) for the formulation of Equity Investment Policy and Special Purpose Company (SPC) structures. We collaborated with JICA and Japan Development Institute (JDI) to design an investment framework, shareholder agreements, and project structuring to strengthen Special Economic Zone (SEZ) development and financing strategies."
+      image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&q=80"
+      actionText: Read More
+    - year: "2015"
+      title: "Global LEAP Clean Energy Financing & Market Development (2015)"
+      description: "IP3 Consulting led the design and implementation of a results-based financing strategy for the Global Lighting & Energy Access Partnership (Global LEAP), accelerating the adoption of off-grid solar home systems. Our work included market matchmaking, cost-benefit analysis, and a four-year M&E framework, bridging viability gaps for clean energy companies and fostering self-sustaining commercial markets for affordable, high-quality energy solutions."
+      image: "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800&q=80"
+      actionText: Read More
+    - year: "2016"
+      title: "Evaluation of World Bank's ESMAP & ASTAE Programs (2016)"
+      description: "IP3 Consulting conducted a comprehensive financial, economic, and social impact evaluation of renewable energy projects under the World Bank's Energy Sector Management Assistance Program (ESMAP) and Asia Sustainable Alternative Energy Program (ASTAE) in Bangladesh and Nepal. Our assessment covered hydroelectric, biomass, wind, geothermal, and solar initiatives, analyzing cost-benefit performance, return on investment, poverty reduction, and economic growth impacts to shape future strategies in sustainable energy development and infrastructure."
+      image: "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80"
+      actionText: Read More
+cta:
+  badge: Next Steps
+  title: "Partner with Us for <span class=\"text-transparent bg-clip-text bg-gradient-to-r from-green-400 via-emerald-300 to-teal-200\">Sustainable Growth</span>"
+  paragraphs:
+    - "Rigorous economic and environmental assessments are the cornerstone of successful infrastructure and development projects. At IP3 Consulting, we combine technical excellence and strategic advisory to de-risk investments and maximize social return."
+    - "Together, we build resilient, bankable, and future-proof solutions."
+  buttonText: Consult Our Feasibility Experts
+  buttonUrl: "#feasibility"
+footer:
+  copyright: © 2026 IP3 Consulting Limited — Institute for Public Policy and Practice. All rights reserved.
+  tagline: "Economic, Financial & Environmental Feasibility Experts"
+  websiteUrl: "https://www.ip3-bd.org"
+  websiteLabel: www.ip3-bd.org
+---
