@@ -43,8 +43,6 @@
     "build:service:policy-edu": "node build/service/build-policy-edu.js",
     "build:service:policy-innov": "node build/service/build-policy-innov.js",
     "build:service:policy-mon": "node build/service/build-policy-mon.js"
-  },
-  "dependencies": {
-    "express": "^5.3.0"
   }
+
 }
