@@ -1,12 +1,13 @@
 {
   "name": "ip3-consulting",
   "version": "1.0.0",
-  "description": "IP3 Consulting website with markdown content management and JSON build system",
+  "description": "IP3 Consulting website with Markdown content management and JSON build system",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js",
+    "dev": "node dev-server.js",
+    "start": "node dev-server.js",
     "lint": "node -e \"console.log('Lint passed')\"",
     "build": "node build/build-all.js",
+
     "build:home": "node build/home/build-all.js",
     "build:hero": "node build/home/build-hero.js",
     "build:mandates": "node build/home/build-mandates.js",
@@ -26,17 +27,19 @@
     "build:contact": "node build/home/build-contact.js",
     "build:faq": "node build/home/build-faq.js",
     "build:organization": "node build/home/build-organization.js",
-    "build:approch": "node build/approch/build-all.js",
-    "build:approch:section1": "node build/approch/build-section1.js",
-    "build:approch:section2": "node build/approch/build-section2.js",
-    "build:approch:section3": "node build/approch/build-section3.js",
-    "build:approch:section4": "node build/approch/build-section4.js",
-    "build:approch:section5": "node build/approch/build-section5.js",
-    "build:approch:section6": "node build/approch/build-section6.js",
-    "build:approch:section7": "node build/approch/build-section7.js",
-    "build:approch:section8": "node build/approch/build-section8.js",
+
+    "build:approach": "node build/approach/build-all.js",
+    "build:approach:section1": "node build/approach/build-section1.js",
+    "build:approach:section2": "node build/approach/build-section2.js",
+    "build:approach:section3": "node build/approach/build-section3.js",
+    "build:approach:section4": "node build/approach/build-section4.js",
+    "build:approach:section5": "node build/approach/build-section5.js",
+    "build:approach:section6": "node build/approach/build-section6.js",
+    "build:approach:section7": "node build/approach/build-section7.js",
+    "build:approach:section8": "node build/approach/build-section8.js",
+
     "build:service": "node build/service/build-all.js",
-    "build:service:poilicy-eco": "node build/service/build-poilicy-eco.js",
+    "build:service:policy-eco": "node build/service/build-policy-eco.js",
     "build:service:policy-climate": "node build/service/build-policy-climate.js",
     "build:service:policy-data": "node build/service/build-policy-data.js",
     "build:service:policy-design": "node build/service/build-policy-design.js",
@@ -44,5 +47,5 @@
     "build:service:policy-innov": "node build/service/build-policy-innov.js",
     "build:service:policy-mon": "node build/service/build-policy-mon.js"
   }
-
 }
+ 

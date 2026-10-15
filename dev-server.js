@@ -31,8 +31,11 @@ app.use(express.static(__dirname, {
     extensions: ['html', 'htm']
 }));
 
-// Route fallback: if route not found, serve index.html
+// Route fallback: if route not found, serve index.html (or JSON 404 for data requests)
 app.use((req, res) => {
+    if (req.path.startsWith('/data/') || req.path.endsWith('.json')) {
+        return res.status(404).json({ error: `Not found: ${req.path}` });
+    }
     res.status(404).sendFile(path.join(__dirname, 'index.html'));
 });
 

@@ -1,0 +1,8 @@
+dev-server.js
+node_modules
+.env*
+.pages.yml
+bun.lock
+code.md
+test.html
+test2.html
